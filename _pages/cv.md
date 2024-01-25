@@ -1,11 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
 cv_pdf: cv.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Updated January 2024.
 toc:
   sidebar: left
 ---
+
+<iframe src="https://docs.google.com/viewer?url=https://marc-rigter.github.io/assets/pdf/cv.pdf&embedded=true" frameborder="0" height="600px" width="100%"></iframe>
