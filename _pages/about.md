@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-Sorry about the current mess - I'm currently in the process of revamping it.
+Sorry about the current mess - I'm currently overhauling it.
