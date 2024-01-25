@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photos
+title: Photos
 permalink: /photos/
 description: Photo collections - click to see more.
 nav: true
