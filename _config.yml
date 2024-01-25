@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Marc Rigter # the website title (if blank, full name will be used instead)
-first_name: Marc Rigter
+title: # the website title (if blank, full name will be used instead)
+first_name: Marc
 middle_name: 
-last_name: Marc Rigter
+last_name: Rigter
 email: marcrigter@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
