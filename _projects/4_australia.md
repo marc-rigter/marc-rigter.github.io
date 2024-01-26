@@ -8,4 +8,4 @@ category: work
 giscus_comments: false
 ---
 
-{% include image-gallery.html folder="assets/img/usa" %}
+{% include image-gallery.html folder="assets/img/australia" %}
