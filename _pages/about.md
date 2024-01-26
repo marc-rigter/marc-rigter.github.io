@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-I'm currently a postdoc at the [Applied AI Lab](https://ori.ox.ac.uk/labs/a2i/) at the [Oxford Robotics Institute](https://ori.ox.ac.uk/) (ORI) at the University of Oxford. My current research focusses on generative "world" models and model-based reinforcement learning.
+I'm currently a postdoc at the [Applied AI Lab](https://ori.ox.ac.uk/labs/a2i/) at the [Oxford Robotics Institute](https://ori.ox.ac.uk/) (ORI) at the University of Oxford. My current research focuses on generative "world" models and model-based reinforcement learning.
 
 I recently completed my PhD in Information Engineering at the [GOALS Group](https://ori.ox.ac.uk/labs/goals/) also at the ORI. The focus on my PhD research was risk and robustness in reinforcement learning.
