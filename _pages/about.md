@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-I'm currently a machine learning researcher in the [Causica team at Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/people/) working on improving the decision-making capabilities of foundation models.
+I'm currently a machine learning researcher in the [Causica team at Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/people/), working on improving the decision-making capabilities of foundation models.
 
 Previously I was a postdoc at the [Applied AI Lab](https://ori.ox.ac.uk/labs/a2i/) at the [Oxford Robotics Institute](https://ori.ox.ac.uk/) (ORI) at the University of Oxford. I completed my PhD in Information Engineering at the [GOALS Group](https://ori.ox.ac.uk/labs/goals/) also at the ORI. At Oxford, my research focused on generative "world" models, model-based reinforcement learning, and planning under uncertainty.
 
